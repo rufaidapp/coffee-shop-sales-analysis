@@ -1,4 +1,4 @@
-
+[Coffee Shop Sales.xlsx](https://github.com/user-attachments/files/23089944/Coffee.Shop.Sales.xlsx)
 # coffee-shop-sales-analysis
 Coffee Shop Sales Data Analysis with WPS Spreadsheet
 This project uses a transactional dataset from a fictional coffee shop to perform an end-to-end sales analysis. The objective is to leverage data cleaning, transformation, and visualization techniques in WPS Spreadsheet to identify key sales trends, evaluate product performance, and compare store locations. The analysis provides actionable insights to help optimize business performance and enhance customer experience.
@@ -20,5 +20,5 @@ Kaggle: Source of the raw coffee shop sales dataset.
 . **Monthly Sales Trends:** Identified a consistent growth in sales throughout the months, suggesting a positive business trajectory.
 . **Store Performance:** Found that the Hells kitchen store consistently outperforms other locations, which could inform future marketing or staffing decisions
 <img width="1366" height="768" alt="Screenshot (427)" src="https://github.com/user-attachments/assets/3e1510af-d3e1-4bdb-9890-6dc9320fa4ea" />
-[Coffee Shop Sales.xlsx](https://github.com/user-attachments/files/23089944/Coffee.Shop.Sales.xlsx)
+
 
