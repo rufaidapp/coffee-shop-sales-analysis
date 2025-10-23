@@ -18,6 +18,7 @@ Kaggle: Source of the raw coffee shop sales dataset.
 ***Key Insights from the Analysis***:
 . **Top-Selling Products:** Discovered that sustainably large organic Lg  and Daek chocolate Lg are the highest revenue-generating products, highlighting their popularity among customers.
 . **Monthly Sales Trends:** Identified a consistent growth in sales throughout the months, suggesting a positive business trajectory.
-. **Store Performance:** Found that the Hells kitchen store consistently outperforms other locations, which could inform future marketing or staffing decisions.
-<img width="1366" height="768" alt="Screenshot (426)" src="https://github.com/user-attachments/assets/509266fc-7d9f-413e-a7a2-65574502e575" />
+. **Store Performance:** Found that the Hells kitchen store consistently outperforms other locations, which could inform future marketing or staffing decisions
+<img width="1366" height="768" alt="Screenshot (427)" src="https://github.com/user-attachments/assets/3e1510af-d3e1-4bdb-9890-6dc9320fa4ea" />
+[Coffee Shop Sales.xlsx](https://github.com/user-attachments/files/23089944/Coffee.Shop.Sales.xlsx)
 
