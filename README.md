@@ -1,4 +1,3 @@
-<img width="1366" height="768" alt="Screenshot (426)" src="https://github.com/user-attachments/assets/fd90b2c6-772d-46e1-bcc5-30cce52bcc25" />
 
 # coffee-shop-sales-analysis
 Coffee Shop Sales Data Analysis with WPS Spreadsheet
@@ -20,3 +19,5 @@ Kaggle: Source of the raw coffee shop sales dataset.
 . **Top-Selling Products:** Discovered that sustainably large organic Lg  and Daek chocolate Lg are the highest revenue-generating products, highlighting their popularity among customers.
 . **Monthly Sales Trends:** Identified a consistent growth in sales throughout the months, suggesting a positive business trajectory.
 . **Store Performance:** Found that the Hells kitchen store consistently outperforms other locations, which could inform future marketing or staffing decisions.
+<img width="1366" height="768" alt="Screenshot (426)" src="https://github.com/user-attachments/assets/509266fc-7d9f-413e-a7a2-65574502e575" />
+
