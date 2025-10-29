@@ -23,3 +23,16 @@ Tools Used:
         TOTAL SALES BY STORE LOCATION                                                                                                                                                     <img width="1214" height="282" alt="Screenshot (441)" src="https://github.com/user-attachments/assets/c5a65a33-a9df-4fd4-b5e5-dccc25348200" />                                                    TOTAL SALES BY PRODUCT                                                                                                                                                             <img width="1181" height="263" alt="Screenshot (442)" src="https://github.com/user-attachments/assets/8abc945b-e0a8-467d-a864-7a0cb30f4763" />
 
 
+---
+
+## 🧑‍💻 Author
+
+**Rufaida PP**  
+B.Sc Physics & Mathematics (2023)  
+IBM Data Analyst Certified | Aspiring Data Analyst  
+🌍 Currently seeking data roles in **Dubai**  
+📫 rufaidapp123@gmail.com
+---
+
+⭐ *If you find this helpful, please star this repository on GitHub!*
+
